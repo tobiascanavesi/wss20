@@ -6,3 +6,4 @@ The Wolfram Model is a discrete spacetime formalism in which space is represente
 - Future work:
  Study in a more qualitative way the connection of hypergraphs with groups of symmetries and a possible relation with the gauge/gravity conjecture.
 Try to understand the meaning of SO(n), with n ∉  in the context of the Wolfram Models.
+https://community.wolfram.com/groups/-/m/t/2027996?p_p_auth=70yZG29w
