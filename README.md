@@ -1,4 +1,4 @@
-# wss20
+# [WSS20] Local Dimension Measure and Rotation Groups in Wolfram Models 
 My project of the Wolfram Summer School 2020
 - Project goal: The first goal of this project is to find a way to calculate a local dimension measure (i.e. better than the current logarithmic-difference approximation) and then if it’s possible to reconstruct a discrete approximation to SO(n) for integer-dimensional hypergraphs.
 - Computational strategy:
